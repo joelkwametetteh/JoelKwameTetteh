@@ -21,5 +21,4 @@ I am a **Student Physician Assistant** and a **Certified Data Analyst**. My pass
   📂 **[Data Analytics Portfolio](https://github.com/joelkwametetteh/Data-Analytics-Portfolio-)** Check out my main repository where I host my data projects.
 
    📬 **Let's Connect:** www.linkedin.com/in/joel-kwame-tetteh-7102343a8
-   
-                         https://public.tableau.com/app/profile/joel.kwame.tetteh 
+                                                                                              https://public.tableau.com/app/profile/joel.kwame.tetteh 
